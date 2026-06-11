@@ -100,11 +100,13 @@ shopping-cart/
 
 ## 👨‍💻 Author
 
-ALUPANA SAI
+Name: ALUPANA SAI
 
 GitHub: https://github.com/saikumar-009
 
 LinkedIn: https://www.linkedin.com/in/alupanasai/
+
+Email: alupanasai3535@gmail.com
 
 ---
 
