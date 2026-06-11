@@ -15,7 +15,7 @@ https://saikumar-009.github.io/Shoping-Cart/
 
 ## GitHub Repository
 
-
+Repository Link:
 https://github.com/saikumar-009/Shoping-Cart
 
 ---
@@ -23,11 +23,11 @@ https://github.com/saikumar-009/Shoping-Cart
 ## 📸 Screenshots
 ### Home Page
 
-![Home Page](.screenshots/Home.png)
+![Home Page](screenshots/Home.png.png)
 
 ### Cart Page
 
-![caet Page](./screenshots/cart.png)
+![caet Page](screenshots/cart.png.png)
 
 ## ✨ Features
 
